@@ -1,2 +1,2 @@
-# FastAPI_TL
-Test &amp; Learn FastAPI in Python.
+<h3>FastAPI(Python/API)</h3>
+This is a personal repository for self study by Test & Learn (TL) ...
