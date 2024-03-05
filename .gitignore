@@ -3,4 +3,4 @@ venv
 .env
 env
 __pycache__/
-learn_sources.txt
+sql_app.db
